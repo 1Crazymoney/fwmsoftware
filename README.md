@@ -1,12 +1,3 @@
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -49,8 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][https://github.com/EXPPAL/fwmsoftware/blob/main/public/images/www.fwmsoftware.com_.png]]
-
+![mobile](https://github.com/EXPPAL/fwmsoftware/blob/main/public/images/www.fwmsoftware.com_.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
